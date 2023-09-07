@@ -3,7 +3,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.txt
+*.csv
+test
 # C extensions
 *.so
 .idea
