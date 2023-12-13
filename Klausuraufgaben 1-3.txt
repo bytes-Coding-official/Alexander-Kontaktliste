@@ -1,0 +1,38 @@
+Aufgabe 1: Textanalyse und Datenextraktion
+Ziel: Entwickle ein Python-Programm, das einen Text aus einer Datei einliest und die Häufigkeit jedes Wortes ermittelt. Ignoriere Groß- und Kleinschreibung und filtere übliche Stoppwörter (wie "und", "der", "die", "das") heraus.
+
+Anforderungen:
+
+Lese einen Text aus einer Datei ein.
+Verwende reguläre Ausdrücke, um Wörter zu identifizieren.
+Zähle, wie oft jedes Wort vorkommt, und speichere die Ergebnisse in einem Dictionary.
+Filtere Stoppwörter heraus.
+Gib die 10 häufigsten Wörter und ihre Häufigkeiten aus.
+
+BONUS: Erweiterbar mittels Grafik sodass die häufigkeiten grafisch mit matplotlib dargestellt werden.
+
+
+Aufgabe 2: Einfache Bankanwendung
+Ziel: Schreibe ein Programm, das die Grundfunktionalitäten einer Bankanwendung simuliert. Das Programm soll die Möglichkeit bieten, Konten zu erstellen, Einzahlungen zu tätigen und den Kontostand abzufragen.
+
+Anforderungen:
+
+Verwende eine Klasse, um ein Bankkonto zu repräsentieren.
+Implementiere Methoden für das Erstellen eines Kontos, Einzahlen und Abfragen des Kontostands.
+Führe Transaktionen über die Konsole durch, indem du Benutzereingaben akzeptierst.
+Behandle mögliche Fehler, wie das Einzahlen von negativen Beträgen oder das Abfragen eines nicht vorhandenen Kontos.
+
+BONUS: Erweiterbar mittels Grafik sodass die Kontostände grafisch mit matplotlib dargestellt werden. Mittels Tinker
+
+
+Aufgabe 3: Datenvisualisierung
+Ziel: Schreibe ein Python-Programm, das Daten aus einer CSV-Datei einliest und diese in einer Grafik darstellt.
+
+Anforderungen:
+
+Lese eine CSV-Datei mit zwei Spalten: Datum und Wert.
+Verwende das matplotlib-Paket, um die Daten zu visualisieren.
+Stelle die Daten als Liniendiagramm dar, wobei das Datum die x-Achse und der Wert die y-Achse ist.
+Beschrifte die Achsen und füge einen Titel hinzu.
+Speichere die Grafik als Bild.
+Diese Aufgaben decken verschiedene Aspekte der Python-Programmierung ab, darunter Dateiverarbeitung, objektorientierte Programmierung und Datenvisualisierung. Sie sind darauf ausgerichtet, dein Verständnis für die in deinen Kursen behandelten Konzepte zu vertiefen und dir praktische Fähigkeiten zu vermitteln, die in der Klausur und in realen Projekten nützlich sein können.

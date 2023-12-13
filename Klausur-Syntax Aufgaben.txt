@@ -1,0 +1,30 @@
+Aufgabe 1: 
+Datenfilterung mit List Comprehensions
+Ziel: Erstelle eine Liste von Quadraten aller geraden Zahlen aus einer vorgegebenen Liste von Zahlen zwischen 1 und 50 unter Verwendung von List Comprehensions.
+
+Details:
+Verwende eine List Comprehension, um die Liste zu erstellen.
+Filtere die geraden Zahlen mit einer bedingten Anweisung innerhalb der List Comprehension.
+Berechne das Quadrat jeder gefilterten Zahl.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Aufgabe 2: 
+Umwandlung von Sekunden in Stunden, Minuten und Sekunden
+Ziel: Schreibe eine Funktion, die eine Gesamtanzahl von Sekunden entgegennimmt und diese in Stunden, Minuten und Sekunden umwandelt.
+
+Details:
+Die Funktion sollte die Gesamtsekunden als Parameter akzeptieren.
+Sie sollte ein Tuple in der Form (Stunden, Minuten, Sekunden) zurückgeben.
+Achte darauf, dass Stunden, Minuten und Sekunden korrekt berechnet werden (z.B. 3661 Sekunden = 1 Stunde, 1 Minute und 1 Sekunde).
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Aufgabe 3: 
+Erstellung eines einfachen Klassensystems
+Ziel: Definiere eine Klasse Student mit Eigenschaften für Name, Alter und eine Methode zur Anzeige dieser Informationen.
+
+Details:
+Die Klasse sollte einen Konstruktor haben, der Name und Alter initialisiert.
+Implementiere eine Methode display_info(), die die Eigenschaften des Studenten ausgibt.
+Erstelle eine Instanz der Klasse und rufe die display_info() Methode auf.
