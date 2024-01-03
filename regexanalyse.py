@@ -15,8 +15,8 @@ regex = (r"[a-zA-Z]+@\[a-zA-Z]+.([a-z]{2,4})")
 #nach definition des Regex und der Liste sowie dem einlesen der zeilen aus der datei in die liste
 
 for zeile in zeilen:
-    if re..match(regex, zeile):
-        print(""zeile)
+    if re.match(regex, zeile):
+        print(zeile)
     else:
         print("Kein Match")
 
